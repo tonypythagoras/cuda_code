@@ -45,26 +45,7 @@ numbers[13]=1;
 numbers[14]=1;
 numbers[15]=8;
 
-    // for(int i=0;i< N; i++){
-    //    if((i/10)==0){
-    //    numbers[i]=10;
-    //    }else if((i/50)==0){
-    //     numbers[i]=50;
-    //    }else if((i/100)==0){
-    //     numbers[i]=100;
-    //    }else if((i/200)==0){
-    //     numbers[i]=200;
-    //    }else if((i/250)==0){
-    //     numbers[i]=250;
-    //    }else if((i/300)==0){
-    //     numbers[i]=300;
-    //    }else if((i/400)==0){
-    //     numbers[i]=400;
-    //    }else{
-    //     numbers[i]=i;
-    //    }
-
-   // }
+    
 }
 
 
