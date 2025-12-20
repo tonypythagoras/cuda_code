@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/macbook/Desktop/github1/cuda_code/day_1",
-      "program": "/Users/macbook/Desktop/github1/cuda_code/day_1/build/Debug/outDebug"
+      "cwd": "/Users/macbook/Desktop/github1/cuda_code/day37",
+      "program": "/Users/macbook/Desktop/github1/cuda_code/day37/build/Debug/outDebug"
     }
   ]
 }
